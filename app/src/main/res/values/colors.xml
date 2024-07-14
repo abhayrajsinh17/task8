@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#99000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lt_white">#3300BCD4</color>
+    <color name="blue">#2196F3</color>
+    <color name="background">#CC000000</color>
+    <color name="orange">#FF8A00</color>
+    <color name="gray">#5E5E60</color>
+    <color name="lt_gray">#BCB6AE</color>
+    <color name="colorAccent">#FF8A00</color>
+    <color name="transp">#40000000</color>
+    <color name="red">#B31414</color>
+    <color name="black_dark">#E6000000</color>
+</resources>
